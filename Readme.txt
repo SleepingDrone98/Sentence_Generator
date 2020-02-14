@@ -1,0 +1,7 @@
+- Ensure the moby10b.txt file is in the same folder as SenGen.py
+- Create a conda environment
+- Open conda console and enter the following
+- activate *your environment name* (Changes to your environment)
+- pip install -U spacy
+- python -m spacy download en
+- link interpreter in IDE to your conda environment
